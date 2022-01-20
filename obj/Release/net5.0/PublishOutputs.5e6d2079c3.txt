@@ -1,0 +1,15 @@
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Adorable.exe
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\appsettings.Development.json
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\appsettings.json
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Adorable.dll
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Adorable.deps.json
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Adorable.runtimeconfig.json
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Adorable.pdb
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\DBreeze.dll
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Microsoft.OpenApi.dll
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Newtonsoft.Json.dll
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Uche Victor\Code Hub\DotNet\AdorableCart\adorable\publish\VueCliMiddleware.dll
